@@ -1,0 +1,151 @@
+incident_id,case_id,state,incident_type,severity,reported_date,resolved_date,days_to_resolve,near_miss_flag,month
+I001,C0237,Kentucky,Documentation Gap,Low,2023-02-04,2023-02-09,5,No,2023-02
+I002,C0051,Ohio,Missed Visit,Medium,2023-06-19,2023-06-25,6,No,2023-06
+I003,C0066,Ohio,Documentation Gap,Low,2023-05-26,2023-06-05,10,No,2023-05
+I004,C0036,Ohio,Near Miss,Low,2023-08-19,2023-08-25,6,Yes,2023-08
+I005,C0316,Ohio,Documentation Gap,Medium,2023-03-20,2023-03-30,10,No,2023-03
+I006,C0291,Ohio,Safety Concern,Low,2023-08-08,2023-08-11,3,No,2023-08
+I007,C0003,Ohio,Safety Concern,High,2023-11-25,2023-12-02,7,No,2023-11
+I008,C0142,Ohio,Policy Violation,Low,2023-06-19,2023-06-27,8,No,2023-06
+I009,C0237,Kentucky,Safety Concern,High,2023-09-07,2023-09-16,9,No,2023-09
+I010,C0056,Kentucky,Missed Visit,Medium,2023-05-24,2023-06-07,14,No,2023-05
+I011,C0424,Ohio,Missed Visit,Medium,2023-05-15,2023-05-27,12,No,2023-05
+I012,C0454,Ohio,Documentation Gap,High,2023-01-10,2023-01-24,14,No,2023-01
+I013,C0260,Ohio,Documentation Gap,High,2023-10-24,2023-10-31,7,No,2023-10
+I014,C0394,Ohio,Documentation Gap,Critical,2023-10-10,2023-10-15,5,No,2023-10
+I015,C0277,Ohio,Safety Concern,High,2023-07-07,2023-07-14,7,No,2023-07
+I016,C0115,Ohio,Policy Violation,Medium,2023-05-29,2023-06-01,3,No,2023-05
+I017,C0238,Ohio,Safety Concern,Low,2023-07-06,2023-07-15,9,No,2023-07
+I018,C0006,Kentucky,Documentation Gap,High,2023-11-11,2023-11-22,11,No,2023-11
+I019,C0085,West Virginia,Policy Violation,Low,2023-03-23,2023-04-02,10,No,2023-03
+I020,C0290,Ohio,Near Miss,Medium,2023-03-16,2023-03-28,12,Yes,2023-03
+I021,C0375,Ohio,Safety Concern,Low,2023-04-23,2023-05-06,13,No,2023-04
+I022,C0250,Ohio,Missed Visit,Low,2023-04-30,2023-05-01,1,No,2023-04
+I023,C0343,West Virginia,Missed Visit,Critical,2023-07-04,2023-07-21,17,No,2023-07
+I024,C0233,Kentucky,Policy Violation,Low,2023-11-29,2023-12-05,6,No,2023-11
+I025,C0053,Ohio,Documentation Gap,Medium,2023-05-21,2023-06-04,14,No,2023-05
+I026,C0380,West Virginia,Missed Visit,Medium,2023-03-31,2023-04-17,17,No,2023-03
+I027,C0335,Kentucky,Safety Concern,Medium,2023-02-09,2023-02-18,9,No,2023-02
+I028,C0129,Ohio,Safety Concern,Critical,2023-09-22,2023-09-29,7,Yes,2023-09
+I029,C0445,Ohio,Safety Concern,High,2023-11-06,2023-11-07,1,No,2023-11
+I030,C0257,Kentucky,Policy Violation,Medium,2023-04-28,2023-04-30,2,No,2023-04
+I031,C0264,West Virginia,Documentation Gap,Low,2023-04-06,2023-04-16,10,No,2023-04
+I032,C0186,West Virginia,Documentation Gap,High,2023-04-28,2023-05-16,18,No,2023-04
+I033,C0416,Ohio,Safety Concern,Low,2023-09-03,2023-09-11,8,No,2023-09
+I034,C0108,Ohio,Documentation Gap,Medium,2023-07-30,2023-07-31,1,No,2023-07
+I035,C0125,West Virginia,Missed Visit,Medium,2023-03-24,2023-04-02,9,No,2023-03
+I036,C0323,Ohio,Safety Concern,High,2023-03-17,2023-03-18,1,No,2023-03
+I037,C0086,Ohio,Missed Visit,Low,2023-07-27,2023-08-06,10,No,2023-07
+I038,C0497,Kentucky,Documentation Gap,Low,2023-05-26,2023-05-28,2,No,2023-05
+I039,C0111,West Virginia,Safety Concern,Critical,2023-09-04,2023-09-14,10,Yes,2023-09
+I040,C0211,Ohio,Documentation Gap,High,2023-04-04,2023-04-14,10,No,2023-04
+I041,C0338,Ohio,Safety Concern,Low,2023-06-25,2023-07-03,8,No,2023-06
+I042,C0306,Ohio,Documentation Gap,Low,2023-07-17,2023-07-20,3,No,2023-07
+I043,C0056,Kentucky,Missed Visit,Medium,2023-09-16,2023-09-27,11,No,2023-09
+I044,C0215,Kentucky,Policy Violation,Medium,2023-04-01,2023-04-09,8,No,2023-04
+I045,C0462,Ohio,Documentation Gap,Low,2023-09-30,2023-10-09,9,No,2023-09
+I046,C0386,West Virginia,Missed Visit,Medium,2023-03-08,2023-04-01,24,No,2023-03
+I047,C0277,Ohio,Policy Violation,High,2023-11-29,2023-12-06,7,No,2023-11
+I048,C0268,Kentucky,Safety Concern,High,2023-09-29,2023-10-06,7,No,2023-09
+I049,C0118,West Virginia,Near Miss,Medium,2023-07-15,2023-07-31,16,Yes,2023-07
+I050,C0302,Kentucky,Policy Violation,Critical,2023-10-22,2023-10-24,2,No,2023-10
+I051,C0131,Kentucky,Safety Concern,Low,2023-02-12,2023-02-17,5,No,2023-02
+I052,C0307,Ohio,Policy Violation,Medium,2023-04-07,2023-04-08,1,No,2023-04
+I053,C0364,Ohio,Documentation Gap,Low,2023-09-25,2023-09-27,2,No,2023-09
+I054,C0267,West Virginia,Missed Visit,Medium,2023-06-11,2023-06-29,18,No,2023-06
+I055,C0186,West Virginia,Missed Visit,Medium,2023-10-27,2023-11-09,13,No,2023-10
+I056,C0134,Kentucky,Policy Violation,Medium,2023-07-07,2023-07-17,10,No,2023-07
+I057,C0142,Ohio,Near Miss,Low,2023-04-15,2023-04-22,7,Yes,2023-04
+I058,C0283,Ohio,Policy Violation,Medium,2023-07-09,2023-07-18,9,No,2023-07
+I059,C0285,Kentucky,Safety Concern,Critical,2023-10-23,2023-10-29,6,No,2023-10
+I060,C0204,West Virginia,Documentation Gap,High,2023-03-02,2023-03-30,28,No,2023-03
+I061,C0118,West Virginia,Safety Concern,Medium,2023-03-24,2023-04-01,8,No,2023-03
+I062,C0110,Ohio,Safety Concern,High,2023-10-09,2023-10-19,10,No,2023-10
+I063,C0357,Kentucky,Documentation Gap,Low,2023-07-19,2023-07-30,11,No,2023-07
+I064,C0003,Ohio,Policy Violation,High,2023-08-30,2023-09-09,10,No,2023-08
+I065,C0223,Ohio,Missed Visit,Low,2023-07-09,2023-07-11,2,No,2023-07
+I066,C0312,Ohio,Missed Visit,Low,2023-07-25,2023-08-04,10,No,2023-07
+I067,C0336,Ohio,Safety Concern,High,2023-11-02,2023-11-03,1,No,2023-11
+I068,C0485,Ohio,Policy Violation,Low,2023-09-11,2023-09-19,8,No,2023-09
+I069,C0006,Kentucky,Missed Visit,Medium,2023-09-23,2023-09-28,5,No,2023-09
+I070,C0100,West Virginia,Missed Visit,Medium,2023-09-22,2023-10-19,27,No,2023-09
+I071,C0119,Kentucky,Documentation Gap,Medium,2023-07-04,2023-07-08,4,No,2023-07
+I072,C0336,Ohio,Missed Visit,Low,2023-05-22,2023-06-04,13,No,2023-05
+I073,C0205,West Virginia,Safety Concern,Low,2023-10-28,2023-11-08,11,No,2023-10
+I074,C0266,Kentucky,Missed Visit,High,2023-02-16,2023-02-25,9,No,2023-02
+I075,C0146,Kentucky,Documentation Gap,Medium,2023-10-26,2023-11-01,6,No,2023-10
+I076,C0178,Ohio,Near Miss,Low,2023-11-07,2023-11-11,4,Yes,2023-11
+I077,C0233,Kentucky,Near Miss,Medium,2023-05-14,2023-05-17,3,Yes,2023-05
+I078,C0209,Ohio,Safety Concern,Medium,2023-09-15,2023-09-20,5,No,2023-09
+I079,C0175,Ohio,Near Miss,High,2023-05-12,2023-05-21,9,Yes,2023-05
+I080,C0417,Ohio,Policy Violation,Low,2023-08-15,2023-08-22,7,No,2023-08
+I081,C0289,Ohio,Safety Concern,Low,2023-06-23,2023-07-06,13,No,2023-06
+I082,C0235,West Virginia,Documentation Gap,High,2023-01-15,2023-02-04,20,No,2023-01
+I083,C0060,West Virginia,Missed Visit,Low,2023-04-23,2023-05-19,26,No,2023-04
+I084,C0360,Ohio,Missed Visit,Low,2023-06-30,2023-07-09,9,No,2023-06
+I085,C0275,Ohio,Missed Visit,High,2023-05-08,2023-05-13,5,No,2023-05
+I086,C0048,Ohio,Safety Concern,High,2023-06-25,2023-06-27,2,No,2023-06
+I087,C0284,Ohio,Near Miss,Medium,2023-07-01,2023-07-05,4,Yes,2023-07
+I088,C0458,Kentucky,Documentation Gap,Low,2023-04-08,2023-04-16,8,No,2023-04
+I089,C0378,West Virginia,Missed Visit,High,2023-05-16,2023-05-27,11,No,2023-05
+I090,C0118,West Virginia,Missed Visit,Low,2023-11-13,2023-11-29,16,No,2023-11
+I091,C0080,Ohio,Policy Violation,Low,2023-02-10,2023-02-21,11,No,2023-02
+I092,C0490,Kentucky,Documentation Gap,Medium,2023-10-05,2023-10-06,1,No,2023-10
+I093,C0435,Ohio,Safety Concern,Medium,2023-09-10,2023-09-20,10,No,2023-09
+I094,C0445,Ohio,Missed Visit,Low,2023-09-19,2023-09-24,5,No,2023-09
+I095,C0204,West Virginia,Missed Visit,Medium,2023-01-28,2023-02-18,21,No,2023-01
+I096,C0410,West Virginia,Safety Concern,Critical,2023-01-17,2023-02-07,21,Yes,2023-01
+I097,C0441,West Virginia,Documentation Gap,Low,2023-03-03,2023-03-30,27,No,2023-03
+I098,C0266,Kentucky,Safety Concern,Medium,2023-01-07,2023-01-18,11,No,2023-01
+I099,C0108,Ohio,Safety Concern,Low,2023-07-05,2023-07-15,10,No,2023-07
+I100,C0442,Ohio,Missed Visit,Medium,2023-05-02,2023-05-07,5,No,2023-05
+I101,C0242,Kentucky,Near Miss,Low,2023-04-05,2023-04-13,8,Yes,2023-04
+I102,C0218,West Virginia,Missed Visit,High,2023-07-10,2023-07-26,16,No,2023-07
+I103,C0438,Kentucky,Safety Concern,Medium,2023-10-20,2023-10-23,3,No,2023-10
+I104,C0295,Kentucky,Documentation Gap,High,2023-05-19,2023-06-01,13,No,2023-05
+I105,C0121,Ohio,Documentation Gap,High,2023-04-11,2023-04-14,3,No,2023-04
+I106,C0410,West Virginia,Near Miss,Low,2023-01-05,2023-01-15,10,Yes,2023-01
+I107,C0216,Kentucky,Safety Concern,Critical,2023-11-19,2023-11-28,9,No,2023-11
+I108,C0162,Ohio,Policy Violation,Low,2023-10-15,2023-10-29,14,No,2023-10
+I109,C0291,Ohio,Missed Visit,Low,2023-03-25,2023-03-26,1,No,2023-03
+I110,C0111,West Virginia,Policy Violation,Medium,2023-11-19,2023-11-27,8,No,2023-11
+I111,C0231,Ohio,Documentation Gap,Low,2023-07-04,2023-07-13,9,No,2023-07
+I112,C0286,Kentucky,Near Miss,Low,2023-01-11,2023-01-18,7,Yes,2023-01
+I113,C0063,Ohio,Safety Concern,Medium,2023-11-07,2023-11-11,4,No,2023-11
+I114,C0296,Kentucky,Documentation Gap,Medium,2023-03-31,2023-04-13,13,No,2023-03
+I115,C0146,Kentucky,Safety Concern,Medium,2023-09-07,2023-09-20,13,No,2023-09
+I116,C0378,West Virginia,Safety Concern,Low,2023-11-11,2023-11-25,14,No,2023-11
+I117,C0238,Ohio,Documentation Gap,Low,2023-03-27,2023-04-07,11,No,2023-03
+I118,C0414,West Virginia,Near Miss,Medium,2023-11-10,2023-12-03,23,Yes,2023-11
+I119,C0208,West Virginia,Policy Violation,Low,2023-03-24,2023-04-08,15,No,2023-03
+I120,C0117,West Virginia,Safety Concern,Medium,2023-05-17,2023-06-10,24,No,2023-05
+I121,C0331,West Virginia,Safety Concern,High,2023-07-05,2023-08-02,28,No,2023-07
+I122,C0301,Ohio,Safety Concern,Medium,2023-03-27,2023-03-30,3,No,2023-03
+I123,C0438,Kentucky,Missed Visit,High,2023-05-09,2023-05-21,12,No,2023-05
+I124,C0359,Kentucky,Documentation Gap,Low,2023-07-23,2023-07-25,2,No,2023-07
+I125,C0049,Ohio,Missed Visit,High,2023-10-08,2023-10-09,1,No,2023-10
+I126,C0014,Ohio,Policy Violation,Medium,2023-02-12,2023-02-14,2,No,2023-02
+I127,C0135,Kentucky,Documentation Gap,Low,2023-07-19,2023-07-24,5,No,2023-07
+I128,C0118,West Virginia,Missed Visit,Low,2023-11-17,2023-11-26,9,No,2023-11
+I129,C0068,West Virginia,Safety Concern,Low,2023-01-18,2023-02-13,26,No,2023-01
+I130,C0183,Ohio,Policy Violation,Low,2023-09-01,2023-09-09,8,No,2023-09
+I131,C0500,Ohio,Policy Violation,Critical,2023-10-08,2023-10-16,8,Yes,2023-10
+I132,C0486,Kentucky,Documentation Gap,Low,2023-11-02,2023-11-10,8,No,2023-11
+I133,C0324,Ohio,Documentation Gap,High,2023-08-11,2023-08-20,9,No,2023-08
+I134,C0328,Kentucky,Documentation Gap,Low,2023-06-27,2023-07-05,8,No,2023-06
+I135,C0277,Ohio,Missed Visit,Low,2023-06-07,2023-06-13,6,No,2023-06
+I136,C0212,West Virginia,Missed Visit,Low,2023-01-01,2023-01-22,21,No,2023-01
+I137,C0418,Ohio,Policy Violation,Low,2023-05-27,2023-06-04,8,No,2023-05
+I138,C0274,Kentucky,Missed Visit,Critical,2023-09-02,2023-09-07,5,Yes,2023-09
+I139,C0221,Kentucky,Policy Violation,Medium,2023-01-04,2023-01-13,9,No,2023-01
+I140,C0192,Ohio,Missed Visit,High,2023-08-12,2023-08-19,7,No,2023-08
+I141,C0128,West Virginia,Missed Visit,High,2023-07-19,2023-08-05,17,No,2023-07
+I142,C0113,West Virginia,Missed Visit,Medium,2023-05-03,2023-05-24,21,No,2023-05
+I143,C0392,West Virginia,Policy Violation,Medium,2023-05-20,2023-06-03,14,No,2023-05
+I144,C0333,Ohio,Documentation Gap,High,2023-07-31,2023-08-04,4,No,2023-07
+I145,C0437,Ohio,Missed Visit,Low,2023-02-26,2023-03-09,11,No,2023-02
+I146,C0234,Ohio,Documentation Gap,Low,2023-11-15,2023-11-23,8,No,2023-11
+I147,C0097,Ohio,Safety Concern,Low,2023-10-01,2023-10-02,1,No,2023-10
+I148,C0096,Kentucky,Near Miss,Low,2023-03-06,2023-03-18,12,Yes,2023-03
+I149,C0225,Kentucky,Documentation Gap,Low,2023-03-19,2023-03-20,1,No,2023-03
+I150,C0253,West Virginia,Missed Visit,Medium,2023-09-13,2023-09-29,16,No,2023-09
